@@ -1,0 +1,19 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "data structures and algorithms and algorithmic patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "dsa",
+    "algorithm",
+    "coding",
+    "patterns"
+  ],
+  "author": "YUVRAJ SINGH",
+  "license": "ISC"
+}
